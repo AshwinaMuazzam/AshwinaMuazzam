@@ -4,25 +4,24 @@
 <br/>
 
 
-<h2 align="center"> Introducing a code-sorcerer from the world of web development! 🧙‍♂️💻 </h2>
+<h2 align="center"> Introducing a code-sorcerer from the world of web development! 🧙‍♂💻 </h2>
 <br/>
 
 <div align="center">
 
-🔭 I'm currently working on *Front-end Web Development*
+🔭 I'm currently working on Wordpress Development
 
-🌱 I'm currently learning on *Bootstrap*
+🌱 I'm currently learning on Web Development
 
-💬 Ask me about **C++, HTML, CSS and Bootstrap....or any other thing [here](https://AshwinaMuazzam.github.io/Profolio/)**
+💬 Ask me about Object Oriented, Java, C++, HTML, CSS and Bootstrap....or any other thing [here](https://AshwinaMuazzam.github.io/Profolio/)
 
-⚡ Fun fact *I turn coffee into code!*
 
 </div>
 <div align="center">
 <a href=" ">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/syed-nofel/">
+<a href="https://www.linkedin.com/in/ashwina-muazzam-678195300/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
 </a>
 </div>
@@ -33,8 +32,8 @@
 </br>
 <div align="center">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,tailwind,windicss,wordpress,js,react,jquery,java,python,&theme=dark "/>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,bootstrap,visualstudio,vscode,stackoverflow,figma,&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,tailwind,windicss,wordpress,js,react,java,&theme=dark "/>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,bootstrap,visualstudio,vscode,&theme=dark"/>
 </a>
 </div>
 
@@ -43,11 +42,11 @@
 </br>
 
 ![Syed-M-Nofel's Stats](https://github-readme-stats.vercel.app/api?username=AshwinaMuazzam&theme=merko&show_icons=true&hide_border=false&count_private=false) ![AshwinaMuazzam's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AshwinaMuazzam&theme=merko&hide_border=false)
-![AshwinaMuazzam's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinaMuazzam&theme=merko&show_icons=true&hide_border=false&layout=compact)
-<hr/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AshwinaMuazzam&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+
