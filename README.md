@@ -1,3 +1,5 @@
+
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=100&center=true&vCenter=true&random=false&width=435&lines=Code%2C+coffee%2C+repeat.;Fueling+my+code..+;..with+more+coffee.;............................................." alt="Typing SVG" /></a>
 <br/>
 
@@ -35,11 +37,6 @@
 </a>
 </div>
 
-<hr/>
-<h2 align="center">🔥 Github-Stats/Streaks/Languages 🔥</h2>
-</br>
-
-![Syed-M-Nofel's Stats](https://github-readme-stats.vercel.app/api?username=AshwinaMuazzam&theme=merko&show_icons=true&hide_border=false&count_private=false) ![AshwinaMuazzam's Streak]
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AshwinaMuazzam&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
