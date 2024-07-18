@@ -1,5 +1,3 @@
-
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=100&center=true&vCenter=true&random=false&width=435&lines=Code%2C+coffee%2C+repeat.;Fueling+my+code..+;..with+more+coffee.;............................................." alt="Typing SVG" /></a>
 <br/>
 
@@ -32,7 +30,7 @@
 </br>
 <div align="center">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,windicss,wordpress,js,react,java,&theme=dark "/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,,wordpress,js,react,java,&theme=dark "/>
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,bootstrap,visualstudio,vscode,&theme=dark"/>
 </a>
 </div>
@@ -43,3 +41,5 @@
 
 ### ✍ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+
