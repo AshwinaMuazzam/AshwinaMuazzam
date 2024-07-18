@@ -1,5 +1,3 @@
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=grey&right_color=blue&left_text=My%20Visitors)
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=100&center=true&vCenter=true&random=false&width=435&lines=Code%2C+coffee%2C+repeat.;Fueling+my+code..+;..with+more+coffee.;............................................." alt="Typing SVG" /></a>
 <br/>
 
@@ -32,7 +30,7 @@
 </br>
 <div align="center">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,tailwind,windicss,wordpress,js,react,java,&theme=dark "/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,windicss,wordpress,js,react,java,&theme=dark "/>
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,bootstrap,visualstudio,vscode,&theme=dark"/>
 </a>
 </div>
@@ -41,12 +39,11 @@
 <h2 align="center">🔥 Github-Stats/Streaks/Languages 🔥</h2>
 </br>
 
-![Syed-M-Nofel's Stats](https://github-readme-stats.vercel.app/api?username=AshwinaMuazzam&theme=merko&show_icons=true&hide_border=false&count_private=false) ![AshwinaMuazzam's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AshwinaMuazzam&theme=merko&hide_border=false)
+![Syed-M-Nofel's Stats](https://github-readme-stats.vercel.app/api?username=AshwinaMuazzam&theme=merko&show_icons=true&hide_border=false&count_private=false) ![AshwinaMuazzam's Streak]
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AshwinaMuazzam&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
 
