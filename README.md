@@ -16,7 +16,7 @@
 
 </div>
 <div align="center">
-<a href=" ">
+<a href="ashwinamuazzam@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/ashwina-muazzam/">
@@ -30,14 +30,11 @@
 </br>
 <div align="center">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,wordpress,js,react,java&theme=dark "/>
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,wordpress,js,react,java&theme=dark "/>
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,bootstrap,visualstudio,vscode&theme=dark"/>
 </a>
 </div>
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AshwinaMuazzam&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
