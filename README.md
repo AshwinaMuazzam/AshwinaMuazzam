@@ -7,11 +7,8 @@
 
 <div align="center">
 
-🔭 I'm currently working on Wordpress Development
+🌱 Working on Web Development
 
-🌱 I'm currently learning on Web Development
-
-💬 Ask me about Object Oriented, Java, C++, HTML, CSS and Bootstrap....or any other thing [here](https://AshwinaMuazzam.github.io/Profolio/)
 
 
 </div>
